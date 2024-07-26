@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&family=Manrope:wght@200..800&display=swap');
+
+
+h1{ color: #AA1803;
+
+}
+div { 
+    width: 240px;
+
+}
+.content{display: flex;
+margin:  0 auto;
+justify-content: space-evenly;
+align-items: center;
+width: 1200px;}
+
+img{border: 5px solid #BD613C; border-radius: 10px}
+.price{ background-color: black; color: white; padding: 5px; width: 75px; border-radius: 5px;
+
+}
+main { font-family: "Manrope", sans-serif;
+
+}
